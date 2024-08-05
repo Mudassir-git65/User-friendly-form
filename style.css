@@ -1,0 +1,42 @@
+body{
+    
+    background-color: #364cf5;
+}
+
+.baap{
+    height: 500px;
+    width: 70% ;
+    margin: 0 auto;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-color: white;
+    border: 1px solid #364cf5;
+}
+.beta{
+    width: 35%;
+    height: 500px;
+    margin: 10px;
+    margin-bottom: 30px;
+    background-color: rgb(206, 21, 83); 
+    }
+    span{
+        font-size: 25px;
+        font-weight: bolder;
+        margin-left: 600px;
+        text-align: center;
+        color:  rgb(206, 21, 83);
+
+    }
+    p{
+        margin-left: 600px;
+        margin-top: 0 ;
+        display: inline-block;
+    }
+
+/* .form{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 400px;
+    display: inline-block;
+   } */
